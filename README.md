@@ -128,7 +128,7 @@ E na página Home, criamos um link que leva o usuário á um site muito divertid
 
 A refatoração desse código que deu essa nova cara no site foi desenvolvida por
 
-[_Daiane Gonçalves_](https://github.com/daianeex)
+[_Daiane Gonçalves_](https://github.com/daigoncs)
 
 [_Daiane Oltramari_](https://github.com/daianeoltramari)
 
