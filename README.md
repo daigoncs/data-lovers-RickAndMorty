@@ -8,7 +8,7 @@
 > incluindo testes unitários com Jest e testes de usabilidade com usuários reais.
 
 
-> 🔗 [Ver projeto online](https://SEU-LINK-AQUI)
+> 🔗 [Ver projeto online](https://data-lovers-rickandmorty.vercel.app/explore.html)
 
 ## Índice
 
