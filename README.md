@@ -3,6 +3,12 @@
 <img src="readme.img/capa.jpg" width=400>
 </div>
 
+> 🏆 Projeto desenvolvido em equipe no **Hackathon do Bradesco** (Bootcamp Laboratória) —
+> refatoração completa e implementação de novas funcionalidades a partir de um projeto base,
+> incluindo testes unitários com Jest e testes de usabilidade com usuários reais.
+
+
+> 🔗 [Ver projeto online](https://SEU-LINK-AQUI)
 
 ## Índice
 
